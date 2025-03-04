@@ -1,0 +1,21 @@
+C:\Users\User\Desktop\New folder\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\User\Desktop\New folder\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\User\Desktop\New folder\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\User\Desktop\New folder\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\New folder\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\User\Desktop\New folder\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\User\Desktop\New folder\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\User\Desktop\New folder\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\Esoft Metro Campus\New folder\HND Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\Esoft Metro Campus\New folder\HND Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\Esoft Metro Campus\New folder\HND Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\Esoft Metro Campus\New folder\HND Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+F:\Esoft Metro Campus\New folder\HND Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+F:\Esoft Metro Campus\New folder\HND Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\Esoft Metro Campus\New folder\HND Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+F:\Esoft Metro Campus\New folder\HND Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\Esoft Metro Campus\New folder\HND Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\Esoft Metro Campus\New folder\HND Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
